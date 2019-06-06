@@ -1,6 +1,5 @@
 import * as actions from "./actions";
 import Axios from 'axios';
-import './mock';
 
 
 export const fetchAccesstoken=()=>(dispatch)=>{
